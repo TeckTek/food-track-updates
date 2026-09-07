@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
-  "versionCode": 2,
-  "apkUrl": "https://github.com/TeckTek/food-track-updates/releases/download/v0.1.1/food-track-0.1.1-2.apk",
-  "sha256": "44b911b88d3cc5958cf8ccc05a68c5d1c99a2957be2de00c3d8c894ebc0e9031",
-  "notes": "Prva testna različica: dnevnik, mešanice, zgodovina, obvestila in posodobitve."
+  "version": "0.2.0",
+  "versionCode": 3,
+  "apkUrl": "https://github.com/TeckTek/food-track-updates/releases/download/v0.2.0/food-track-0.2.0-3.apk",
+  "sha256": "f08dbff790e65282da082aca8bd88d6841ee9b3b7559c8b9b7e71abff52a4132",
+  "notes": "Google prijava, e-pošta s potrditvijo, ločeni lokalni dnevniki, mešanice, obvestila in posodobitve."
 }
