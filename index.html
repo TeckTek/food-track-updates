@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="sl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Food Track – preizkusna aplikacija</title><style>body{margin:0;background:#f5f5ee;color:#183e2f;font:17px/1.6 system-ui,sans-serif}main{max-width:560px;margin:8vh auto;padding:28px}img{width:112px;border-radius:28px}h1{font-size:42px;line-height:1.15}a{color:#206049}.download{display:inline-block;background:#206049;color:white;text-decoration:none;padding:14px 24px;border-radius:14px;font-weight:700}small{color:#647064}li{margin:8px 0}</style></head><body><main>
+<img src="icon.png" alt="Jabolko z zeleno kljukico"><p><small>ANDROID · INTERNO TESTIRANJE</small></p><h1>Tvoja prehrana.<br>Tvoj ritem.</h1><p>Food Track je slovenski dnevnik hrane s kalorijami, shranjenimi obroki in zgodovino.</p>
+<p><a class="download" href="https://github.com/TeckTek/food-track-updates/releases/latest">Prenesi zadnjo različico</a></p><p id="version"><small>Preizkusna različica. Seznam izdaj vsebuje APK in opis sprememb.</small></p>
+<ol><li>Na telefonu Android prenesi APK iz zadnje izdaje.</li><li>Odpri datoteko in potrdi namestitev. Android lahko zahteva dovoljenje za namestitev iz tega vira.</li><li>Pri naslednji različici te obvesti aplikacija. Namesti jo čez obstoječo, da ohraniš dnevnik.</li></ol>
+<p>Začetna različica vključuje ročni vnos hrane in mešanice. Skeniranje izdelkov ter analiza fotografij sta še v pripravi.</p>
+<p><small>Podatki dnevnika ostanejo na tvojem telefonu. Ob odstranitvi aplikacije se lahko izbrišejo. Ta stran in datoteke za prenos so javne.</small></p><p>Kontakt: <a href="mailto:marcanovi6243@gmail.com">marcanovi6243@gmail.com</a></p>
+<script>fetch('./latest.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(r=>{document.getElementById('version').textContent='Različica '+r.version+' · '+r.notes}).catch(()=>{});</script>
+</main></body></html>
