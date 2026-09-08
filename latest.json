@@ -1,7 +1,7 @@
 {
-  "version": "0.3.3",
-  "versionCode": 7,
-  "apkUrl": "https://github.com/TeckTek/food-track-updates/releases/download/v0.3.3/food-track-0.3.3-7.apk",
-  "sha256": "3b596d30c27979338816bc96165ccac0e3e54835db21ae5da2a707b6c8fa11b7",
-  "notes": "ScreenMe popravki: moka in lokalne črtne kode, poljubni obroki, pet vrst obrokov ter osebni kalorični deficit."
+  "version": "0.3.4",
+  "versionCode": 8,
+  "apkUrl": "https://github.com/TeckTek/food-track-updates/releases/download/v0.3.4/food-track-0.3.4-8.apk",
+  "sha256": "2d3a7625bb0da011510d569a1c516bb3f357831c4852867faff6c8921dbca00a",
+  "notes": "Nova navigacija, hitri vnos obrokov, jajca po kosih, voda in dnevni namigi."
 }
