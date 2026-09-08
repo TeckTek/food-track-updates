@@ -1,7 +1,7 @@
 {
-  "version": "0.3.4",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/TeckTek/food-track-updates/releases/download/v0.3.4/food-track-0.3.4-8.apk",
-  "sha256": "2d3a7625bb0da011510d569a1c516bb3f357831c4852867faff6c8921dbca00a",
-  "notes": "Nova navigacija, hitri vnos obrokov, jajca po kosih, voda in dnevni namigi."
+  "version": "0.4.0",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/TeckTek/food-track-updates/releases/download/v0.4.0/food-track-0.4.0-9.apk",
+  "sha256": "67f42b33dbd82a7bde2f36f4372f484f9fee9d0c1b39840232991e0bde3a9eda",
+  "notes": "Nova rumena podoba, hitri približni vnos, uporabni widgeti, obvestila, osebni pozdrav in oblačna sinhronizacija."
 }
