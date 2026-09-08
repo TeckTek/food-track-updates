@@ -1,4 +1,4 @@
-# Food Track – testne izdaje
+# Calorix – testne izdaje
 
 Android APK-ji so v GitHub Releases. Stran za testerje: https://tecktek.github.io/food-track-updates/
 

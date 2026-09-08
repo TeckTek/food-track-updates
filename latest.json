@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0",
-  "versionCode": 4,
-  "apkUrl": "https://github.com/TeckTek/food-track-updates/releases/download/v0.3.0/food-track-0.3.0-4.apk",
-  "sha256": "9a8d888522beb2526b5b8948edc030c0322186d6fee5ab4b7a502f68b5abe0f6",
-  "notes": "Pomnjenje količin, lastne porcije, ponavljanje obrokov, opombe, tedenski jedilnik in skener črtnih kod."
+  "version": "0.3.1",
+  "versionCode": 5,
+  "apkUrl": "https://github.com/TeckTek/food-track-updates/releases/download/v0.3.1/food-track-0.3.1-5.apk",
+  "sha256": "87132af206e71edef99c5077fd161d762e35bc55ba225bfc221e9997e54826d2",
+  "notes": "Novo ime Calorix; priprava iOS distribucije in posodobljena dovoljenja."
 }
