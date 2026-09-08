@@ -1,7 +1,7 @@
 {
-  "version": "0.3.2",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/TeckTek/food-track-updates/releases/download/v0.3.2/food-track-0.3.2-6.apk",
-  "sha256": "15e816309bb1a651ef0e57aa886685fde2dca133c85ab2ab495edf22745facf1",
-  "notes": "92 živil USDA, kategorije ter urejanje kalorij in makrov za poljubno težo."
+  "version": "0.3.3",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/TeckTek/food-track-updates/releases/download/v0.3.3/food-track-0.3.3-7.apk",
+  "sha256": "3b596d30c27979338816bc96165ccac0e3e54835db21ae5da2a707b6c8fa11b7",
+  "notes": "ScreenMe popravki: moka in lokalne črtne kode, poljubni obroki, pet vrst obrokov ter osebni kalorični deficit."
 }
